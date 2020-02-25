@@ -1,4 +1,9 @@
 # scram-master
+
+## Known bugs
+There are no files for the project.
+The developers did not know what they were doing.
+
 ## License
 MIT License
 
