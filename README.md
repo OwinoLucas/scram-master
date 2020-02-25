@@ -1,4 +1,6 @@
 # scram-master
+#### By **{mungai-joel , Default-007 , jadielmwangi , JoelAlumasa , nasra ibrahim , tabitha wanjiku }**
+
 ## License
 MIT License
 
