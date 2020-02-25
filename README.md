@@ -7,6 +7,15 @@ There are no files for the project.
 
 ## License
 MIT License
+
+# Installation Instructions
+No special installation instructions required. Eligibility is all-round.
+## Technologies used
+- HTML
+- CSS
+- Js
+
+
 Copyright (c) [year] [fullname]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
