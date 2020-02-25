@@ -2,6 +2,10 @@
 ## License
 MIT License
 
+
+No special installation instructions required. Eligibility is all-round.
+
+
 Copyright (c) [year] [fullname]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
