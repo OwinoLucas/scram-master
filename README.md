@@ -1,5 +1,7 @@
 # scram-master
 
+#### By **{mungai-joel , Default-007 , jadielmwangi , JoelAlumasa , nasra ibrahim , tabitha wanjiku }**
+
 ## Known bugs
 There are no files for the project.
 
